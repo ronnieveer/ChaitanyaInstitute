@@ -1,2 +1,5 @@
 # Chaitanya Institute
-Author : Rohan Veer
+
+Project: CRM For Chaitanya Institute
+Author: Rohan Veer
+
